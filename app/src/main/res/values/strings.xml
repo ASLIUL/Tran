@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tran</string>
+    <string name="title_name">请输入要翻译的内容</string>
+    <string name="txet_hint">这里显示结果</string>
+    <string name="btn_text">→</string>
+    <string name="thanks">谢谢关心，如果喜欢我，记得告诉我</string>
+    <string name="thank">电话号码：18339355729</string>
+    <string name="pref_key_translate">translate</string>
+    <string name="left_title">中文▽</string>
+    <string name="right_title">英文 ▽</string>
+</resources>
